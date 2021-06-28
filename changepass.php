@@ -119,13 +119,6 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
             <input id="text" value="<?php echo $user_data['user_name']; ?>" placeholder="username here" readonly type="text" name="user_name"><br><br>
             <input id="text" type="password" name="password" placeholder="existing pass">
             <input id="text" placeholder="new password here" type="password" name="new_password"><br><br>
-            <label for="user_name">Your Username</label>
-            <input id="text" value = "<?php echo $user_data['user_name']; ?>" placeholder="username here" type="text" name="user_name" readonly><br><br>
-            <label for="passsword">Existing Passcode</label>
-            <input id ="text" type="password" name="password" placeholder="existing pass">
-            <label for="new_password">Your New Password</label>
-            <input id="text" placeholder= "new password here" type="password" name="new_password"><br><br>
-
 
 
             <input id="button" type="submit" value="Change pwd"><br><br>
@@ -164,6 +157,4 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
 
 </body>
 
-
 </html>
-
