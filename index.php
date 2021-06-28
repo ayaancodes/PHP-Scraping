@@ -15,7 +15,8 @@ session_start();
 </head>
 <body>
 
-	<a href="logout.php">Logout</a>
+	<a href="logout.php">Logout</a><br><br>
+	<a href="changepass.php">Click here to change your Password</a><br><br>
 	<h1>This is the index page</h1>
 
 	<br>
