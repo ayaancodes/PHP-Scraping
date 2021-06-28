@@ -13,20 +13,22 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
     # get the form params
     $username = $_POST['user_name'];
     $password = $_POST['password'];
+    $newpass = $_POST['new_password'];
+    // $existing_password = $_POST['current_pass'];
 
-    if (!empty($username) && !empty($password) && !is_numeric($password)) {
+    if (!empty($username) && !empty($password)) {
         # if the login they entered matches the username logged in, then they match.
-        if ($username == $user_data['user_name']) {
+        if ($username == $user_data['user_name'] && $user_data['password'] == $password) {
             echo "The entered username and seesion username match!";
             echo $_SESSION['user_id'];
-            $query = "UPDATE users SET password= '$password' WHERE user_id = '{$_SESSION['user_id']}'";
+            $query = "UPDATE users SET password= '$newpass' WHERE user_id = '{$_SESSION['user_id']}'";
             $result = mysqli_query($con, $query);
             echo '<script type="text/JavaScript"> 
              alert("your password was changed, please login again.");
              </script>';
         } else {
             echo '<script type="text/JavaScript"> 
-            alert("This username does not match the current logged in user. You can only change your own password!");
+            alert("This username or password does not match the current logged in user. You can only change your own password!");
             </script>';
         }
     } else {
@@ -87,12 +89,14 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
         <form method="post">
             <div style="font-size: 20px;margin: 10px;color: white;">Change password</div>
 
-            <input id="text" placeholder="username here" type="text" name="user_name"><br><br>
-            <input id="text" placeholder= "new password here" type="password" name="password"><br><br>
+            <input id="text" value = "<?php echo $user_data['user_name']; ?>" placeholder="username here" type="text" name="user_name"><br><br>
+            <input id ="text" type="password" name="password" placeholder="existing pass">
+            <input id="text" placeholder= "new password here" type="password" name="new_password"><br><br>
+
 
             <input id="button" type="submit" value="Change pwd"><br><br>
 
-            <a href="login.php">Click to Login</a><br><br>
+            <a href="index.php">Click to Dashboard</a><br><br>
         </form>
     </div>
 </body>
