@@ -6,7 +6,6 @@ include("functions.php");
 
 $user_data = check_login($con);
 
-print_r($user_data);
 
 # check post value
 if ($_SERVER['REQUEST_METHOD'] == "POST") {
