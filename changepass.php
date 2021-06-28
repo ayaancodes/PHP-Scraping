@@ -96,9 +96,8 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
 
             <input id="button" type="submit" value="Change pwd"><br><br>
 
-            <a href="index.php">Click to Dashboard</a><br><br>
+            <a href="index.php">Click to access Dashboard</a><br><br>
         </form>
     </div>
 </body>
-
 </html>
