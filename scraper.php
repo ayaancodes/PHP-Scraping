@@ -25,7 +25,6 @@ $html_base = new simple_html_dom();
 // Load HTML from a string
 $html_base->load($str);
 
-// echo $html_base;
 
 //get all category links
 foreach($html_base->find('div') as $element) {
@@ -65,15 +64,7 @@ foreach($html_base->find('div[class="cell-group country"]') as $element) {
   );
 
   array_push($finalArray , $countryDetails);
-  
-  /* if you want to log this stuff you can
-      echo "This is the country"  . $country[0]; 
-    echo "<br>";
-    echo "This is the case count"  . $caseCount[1]; 
-    echo "<br>";
-    echo "This is the death count"  . $caseCount[2]; 
-    echo "</pre>";
-  */
+
 }
 
 
