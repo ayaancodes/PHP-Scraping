@@ -1,0 +1,10 @@
+{
+    "require": {
+        "duzun/hquery": "^3.0",
+        "php-http/discovery": "^1.14",
+        "php-http/message": "^1.11",
+        "php-http/curl-client": "^2.2",
+        "php-http/socket-client": "^2.1",
+        "guzzlehttp/psr7": "^1.8"
+    }
+}
