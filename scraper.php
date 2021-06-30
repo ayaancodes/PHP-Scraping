@@ -1,6 +1,7 @@
 <?php
 
  include('./libs/simple_html_dom.php');
+ ini_set('memory_limit', '6024M');
 
 
  //base url
@@ -18,20 +19,55 @@ curl_close($curl);
 
 // Create a DOM object
 $html_base = new simple_html_dom();
+
 // Load HTML from a string
 $html_base->load($str);
 
-// echo $html_base
 
-//get all category links
-foreach($html_base->find('div') as $element) {
+$finalArray = [];
+
+$counter = 0;
+
+//go through each table row with thte country, case count and death count
+foreach($html_base->find('div[class="cell-group country"]') as $element) {
+
     echo "<pre>";
-    echo $element;
-    // print_r( $element->outertext);
+    // inside the row, get the country
+    $country = $element->find('div[class="cell"]');
+    
+    // get the row element and find the case count and death count
+    $caseCount = $element->find('div[role="cell"]');
+
+    $countryDetails = array(
+      "country" => $country[0]->innertext,
+      "caseCount" => $caseCount[1]->innertext,
+      "deathCount" => $caseCount[2]->innertext
+  );
+
+  array_push($finalArray , $countryDetails);
+  
+  /* if you want to log this stuff you can
+      echo "This is the country"  . $country[0]; 
+    echo "<br>";
+    echo "This is the case count"  . $caseCount[1]; 
+    echo "<br>";
+    echo "This is the death count"  . $caseCount[2]; 
     echo "</pre>";
+  */
 }
+
+
 
 $html_base->clear(); 
 unset($html_base);
+
+
+
+echo "This is the final array \n";
+
+print("<pre>".print_r($finalArray,true)."</pre>");
+
+// print_r($finalArray);
+file_put_contents('./array.txt', print_r($finalArray, true));
 
 ?>
