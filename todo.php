@@ -14,7 +14,7 @@ session_start();
 			$task = $_POST['task'];
 			$sql = "INSERT INTO tasks (task) VALUES ('$task')";
 			mysqli_query($db1, $sql);
-			header('location: todo.php');
+			header('location: todo.php'); 
 		}
 	}
 	// delete task
@@ -22,7 +22,7 @@ session_start();
 		$id = $_GET['del_task'];
 
 		mysqli_query($db1, "DELETE FROM tasks WHERE id=".$id);
-		header('location: index.php');
+		// header('location: index.php');  <= I think we don't need to redirect to index.php
 	}
 
 ?>
@@ -62,7 +62,7 @@ session_start();
 				<td> <?php echo $i; ?> </td>
 				<td class="task"> <?php echo $row['task']; ?> </td>
 				<td class="delete"> 
-					<a href="index.php?del_task=<?php echo $row['id'] ?>">x</a> 
+					<a href="todo.php?del_task=<?php echo $row['id'] ?>">x</a>  
 				</td>
 			</tr>
 		<?php $i++; } ?>	
@@ -77,4 +77,3 @@ session_start();
 <a href="changepass.php">Click here</a>
 </body>
 </html>
-
