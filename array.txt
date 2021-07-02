@@ -1,0 +1,1508 @@
+Array
+(
+    [0] => Array
+        (
+            [country] =>          World       
+            [caseCount] =>          181,053,670       
+            [deathCount] =>          3,923,218       
+        )
+
+    [1] => Array
+        (
+            [country] =>          United States       
+            [caseCount] =>          33,624,983       
+            [deathCount] =>          603,966       
+        )
+
+    [2] => Array
+        (
+            [country] =>          India       
+            [caseCount] =>          30,279,331       
+            [deathCount] =>          396,730       
+        )
+
+    [3] => Array
+        (
+            [country] =>          Brazil       
+            [caseCount] =>          18,420,598       
+            [deathCount] =>          513,474       
+        )
+
+    [4] => Array
+        (
+            [country] =>          France       
+            [caseCount] =>          5,703,524       
+            [deathCount] =>          110,061       
+        )
+
+    [5] => Array
+        (
+            [country] =>          Turkey       
+            [caseCount] =>          5,409,027       
+            [deathCount] =>          49,576       
+        )
+
+    [6] => Array
+        (
+            [country] =>          Russia       
+            [caseCount] =>          5,387,486       
+            [deathCount] =>          131,070       
+        )
+
+    [7] => Array
+        (
+            [country] =>          United Kingdom       
+            [caseCount] =>          4,732,434       
+            [deathCount] =>          128,100       
+        )
+
+    [8] => Array
+        (
+            [country] =>          Argentina       
+            [caseCount] =>          4,405,247       
+            [deathCount] =>          92,568       
+        )
+
+    [9] => Array
+        (
+            [country] =>          Italy       
+            [caseCount] =>          4,258,069       
+            [deathCount] =>          127,472       
+        )
+
+    [10] => Array
+        (
+            [country] =>          Colombia       
+            [caseCount] =>          4,158,716       
+            [deathCount] =>          104,678       
+        )
+
+    [11] => Array
+        (
+            [country] =>          Spain       
+            [caseCount] =>          3,782,463       
+            [deathCount] =>          80,779       
+        )
+
+    [12] => Array
+        (
+            [country] =>          Germany       
+            [caseCount] =>          3,734,489       
+            [deathCount] =>          90,768       
+        )
+
+    [13] => Array
+        (
+            [country] =>          Iran       
+            [caseCount] =>          3,167,741       
+            [deathCount] =>          83,845       
+        )
+
+    [14] => Array
+        (
+            [country] =>          Poland       
+            [caseCount] =>          2,879,638       
+            [deathCount] =>          74,979       
+        )
+
+    [15] => Array
+        (
+            [country] =>          Mexico       
+            [caseCount] =>          2,505,792       
+            [deathCount] =>          232,564       
+        )
+
+    [16] => Array
+        (
+            [country] =>          Ukraine       
+            [caseCount] =>          2,297,801       
+            [deathCount] =>          54,498       
+        )
+
+    [17] => Array
+        (
+            [country] =>          Indonesia       
+            [caseCount] =>          2,115,304       
+            [deathCount] =>          57,138       
+        )
+
+    [18] => Array
+        (
+            [country] =>          Peru       
+            [caseCount] =>          2,046,057       
+            [deathCount] =>          191,584       
+        )
+
+    [19] => Array
+        (
+            [country] =>          South Africa       
+            [caseCount] =>          1,928,897       
+            [deathCount] =>          59,900       
+        )
+
+    [20] => Array
+        (
+            [country] =>          Netherlands       
+            [caseCount] =>          1,683,271       
+            [deathCount] =>          17,741       
+        )
+
+    [21] => Array
+        (
+            [country] =>          Czech Republic       
+            [caseCount] =>          1,666,890       
+            [deathCount] =>          30,298       
+        )
+
+    [22] => Array
+        (
+            [country] =>          Chile       
+            [caseCount] =>          1,547,103       
+            [deathCount] =>          32,298       
+        )
+
+    [23] => Array
+        (
+            [country] =>          Canada       
+            [caseCount] =>          1,420,607       
+            [deathCount] =>          26,187       
+        )
+
+    [24] => Array
+        (
+            [country] =>          The Philippines       
+            [caseCount] =>          1,397,992       
+            [deathCount] =>          24,372       
+        )
+
+    [25] => Array
+        (
+            [country] =>          Iraq       
+            [caseCount] =>          1,325,700       
+            [deathCount] =>          17,091       
+        )
+
+    [26] => Array
+        (
+            [country] =>          Sweden       
+            [caseCount] =>          1,088,896       
+            [deathCount] =>          14,619       
+        )
+
+    [27] => Array
+        (
+            [country] =>          Belgium       
+            [caseCount] =>          1,082,476       
+            [deathCount] =>          25,160       
+        )
+
+    [28] => Array
+        (
+            [country] =>          Romania       
+            [caseCount] =>          1,080,630       
+            [deathCount] =>          33,253       
+        )
+
+    [29] => Array
+        (
+            [country] =>          Pakistan       
+            [caseCount] =>          955,657       
+            [deathCount] =>          22,231       
+        )
+
+    [30] => Array
+        (
+            [country] =>          Bangladesh       
+            [caseCount] =>          888,406       
+            [deathCount] =>          14,172       
+        )
+
+    [31] => Array
+        (
+            [country] =>          Portugal       
+            [caseCount] =>          874,547       
+            [deathCount] =>          17,084       
+        )
+
+    [32] => Array
+        (
+            [country] =>          Israel       
+            [caseCount] =>          840,888       
+            [deathCount] =>          6,429       
+        )
+
+    [33] => Array
+        (
+            [country] =>          Hungary       
+            [caseCount] =>          807,910       
+            [deathCount] =>          29,980       
+        )
+
+    [34] => Array
+        (
+            [country] =>          Japan       
+            [caseCount] =>          796,077       
+            [deathCount] =>          14,621       
+        )
+
+    [35] => Array
+        (
+            [country] =>          Jordan       
+            [caseCount] =>          749,784       
+            [deathCount] =>          9,727       
+        )
+
+    [36] => Array
+        (
+            [country] =>          Malaysia       
+            [caseCount] =>          734,048       
+            [deathCount] =>          4,944       
+        )
+
+    [37] => Array
+        (
+            [country] =>          Serbia       
+            [caseCount] =>          716,301       
+            [deathCount] =>          7,031       
+        )
+
+    [38] => Array
+        (
+            [country] =>          Switzerland       
+            [caseCount] =>          702,507       
+            [deathCount] =>          10,882       
+        )
+
+    [39] => Array
+        (
+            [country] =>          Austria       
+            [caseCount] =>          650,261       
+            [deathCount] =>          10,700       
+        )
+
+    [40] => Array
+        (
+            [country] =>          Nepal       
+            [caseCount] =>          633,679       
+            [deathCount] =>          9,009       
+        )
+
+    [41] => Array
+        (
+            [country] =>          United Arab Emirates       
+            [caseCount] =>          626,936       
+            [deathCount] =>          1,796       
+        )
+
+    [42] => Array
+        (
+            [country] =>          Lebanon       
+            [caseCount] =>          544,454       
+            [deathCount] =>          7,843       
+        )
+
+    [43] => Array
+        (
+            [country] =>          Morocco       
+            [caseCount] =>          529,676       
+            [deathCount] =>          9,277       
+        )
+
+    [44] => Array
+        (
+            [country] =>          Saudi Arabia       
+            [caseCount] =>          483,221       
+            [deathCount] =>          7,775       
+        )
+
+    [45] => Array
+        (
+            [country] =>          Kazakhstan       
+            [caseCount] =>          476,740       
+            [deathCount] =>          3,524       
+        )
+
+    [46] => Array
+        (
+            [country] =>          Ecuador       
+            [caseCount] =>          454,336       
+            [deathCount] =>          21,523       
+        )
+
+    [47] => Array
+        (
+            [country] =>          Bolivia       
+            [caseCount] =>          433,935       
+            [deathCount] =>          16,581       
+        )
+
+    [48] => Array
+        (
+            [country] =>          Bulgaria       
+            [caseCount] =>          421,531       
+            [deathCount] =>          18,027       
+        )
+
+    [49] => Array
+        (
+            [country] =>          Greece       
+            [caseCount] =>          420,905       
+            [deathCount] =>          12,655       
+        )
+
+    [50] => Array
+        (
+            [country] =>          Paraguay       
+            [caseCount] =>          418,330       
+            [deathCount] =>          12,517       
+        )
+
+    [51] => Array
+        (
+            [country] =>          Belarus       
+            [caseCount] =>          415,339       
+            [deathCount] =>          3,113       
+        )
+
+    [52] => Array
+        (
+            [country] =>          Tunisia       
+            [caseCount] =>          407,017       
+            [deathCount] =>          14,654       
+        )
+
+    [53] => Array
+        (
+            [country] =>          Panama       
+            [caseCount] =>          400,666       
+            [deathCount] =>          6,524       
+        )
+
+    [54] => Array
+        (
+            [country] =>          Slovakia       
+            [caseCount] =>          391,551       
+            [deathCount] =>          12,505       
+        )
+
+    [55] => Array
+        (
+            [country] =>          Uruguay       
+            [caseCount] =>          365,866       
+            [deathCount] =>          5,494       
+        )
+
+    [56] => Array
+        (
+            [country] =>          Georgia       
+            [caseCount] =>          363,522       
+            [deathCount] =>          5,266       
+        )
+
+    [57] => Array
+        (
+            [country] =>          Costa Rica       
+            [caseCount] =>          361,005       
+            [deathCount] =>          4,602       
+        )
+
+    [58] => Array
+        (
+            [country] =>          Croatia       
+            [caseCount] =>          359,652       
+            [deathCount] =>          8,200       
+        )
+
+    [59] => Array
+        (
+            [country] =>          Kuwait       
+            [caseCount] =>          351,481       
+            [deathCount] =>          1,933       
+        )
+
+    [60] => Array
+        (
+            [country] =>          Azerbaijan       
+            [caseCount] =>          335,836       
+            [deathCount] =>          4,968       
+        )
+
+    [61] => Array
+        (
+            [country] =>          Dominican Republic       
+            [caseCount] =>          322,778       
+            [deathCount] =>          3,797       
+        )
+
+    [62] => Array
+        (
+            [country] =>          West Bank       
+            [caseCount] =>          313,721       
+            [deathCount] =>          3,559       
+        )
+
+    [63] => Array
+        (
+            [country] =>          Denmark       
+            [caseCount] =>          292,943       
+            [deathCount] =>          2,532       
+        )
+
+    [64] => Array
+        (
+            [country] =>          Guatemala       
+            [caseCount] =>          291,595       
+            [deathCount] =>          9,050       
+        )
+
+    [65] => Array
+        (
+            [country] =>          Egypt       
+            [caseCount] =>          280,394       
+            [deathCount] =>          16,092       
+        )
+
+    [66] => Array
+        (
+            [country] =>          Lithuania       
+            [caseCount] =>          278,674       
+            [deathCount] =>          4,380       
+        )
+
+    [67] => Array
+        (
+            [country] =>          Ethiopia       
+            [caseCount] =>          275,935       
+            [deathCount] =>          4,314       
+        )
+
+    [68] => Array
+        (
+            [country] =>          Ireland       
+            [caseCount] =>          271,260       
+            [deathCount] =>          4,989       
+        )
+
+    [69] => Array
+        (
+            [country] =>          Venezuela       
+            [caseCount] =>          269,635       
+            [deathCount] =>          3,068       
+        )
+
+    [70] => Array
+        (
+            [country] =>          Bahrain       
+            [caseCount] =>          265,247       
+            [deathCount] =>          1,345       
+        )
+
+    [71] => Array
+        (
+            [country] =>          Oman       
+            [caseCount] =>          262,059       
+            [deathCount] =>          2,967       
+        )
+
+    [72] => Array
+        (
+            [country] =>          Honduras       
+            [caseCount] =>          259,628       
+            [deathCount] =>          6,916       
+        )
+
+    [73] => Array
+        (
+            [country] =>          Slovenia       
+            [caseCount] =>          257,240       
+            [deathCount] =>          4,419       
+        )
+
+    [74] => Array
+        (
+            [country] =>          Moldova       
+            [caseCount] =>          256,559       
+            [deathCount] =>          6,184       
+        )
+
+    [75] => Array
+        (
+            [country] =>          Sri Lanka       
+            [caseCount] =>          253,618       
+            [deathCount] =>          2,944       
+        )
+
+    [76] => Array
+        (
+            [country] =>          Thailand       
+            [caseCount] =>          244,447       
+            [deathCount] =>          1,912       
+        )
+
+    [77] => Array
+        (
+            [country] =>          Armenia       
+            [caseCount] =>          224,797       
+            [deathCount] =>          4,508       
+        )
+
+    [78] => Array
+        (
+            [country] =>          Qatar       
+            [caseCount] =>          221,692       
+            [deathCount] =>          588       
+        )
+
+    [79] => Array
+        (
+            [country] =>          Bosnia and Herzegovina       
+            [caseCount] =>          204,945       
+            [deathCount] =>          9,655       
+        )
+
+    [80] => Array
+        (
+            [country] =>          Libya       
+            [caseCount] =>          192,470       
+            [deathCount] =>          3,187       
+        )
+
+    [81] => Array
+        (
+            [country] =>          Kenya       
+            [caseCount] =>          182,597       
+            [deathCount] =>          3,595       
+        )
+
+    [82] => Array
+        (
+            [country] =>          Cuba       
+            [caseCount] =>          182,354       
+            [deathCount] =>          1,241       
+        )
+
+    [83] => Array
+        (
+            [country] =>          Nigeria       
+            [caseCount] =>          167,467       
+            [deathCount] =>          2,119       
+        )
+
+    [84] => Array
+        (
+            [country] =>          North Macedonia       
+            [caseCount] =>          155,673       
+            [deathCount] =>          5,484       
+        )
+
+    [85] => Array
+        (
+            [country] =>          South Korea       
+            [caseCount] =>          155,572       
+            [deathCount] =>          2,015       
+        )
+
+    [86] => Array
+        (
+            [country] =>          Myanmar       
+            [caseCount] =>          153,160       
+            [deathCount] =>          3,297       
+        )
+
+    [87] => Array
+        (
+            [country] =>          Zambia       
+            [caseCount] =>          148,568       
+            [deathCount] =>          2,022       
+        )
+
+    [88] => Array
+        (
+            [country] =>          Algeria       
+            [caseCount] =>          138,465       
+            [deathCount] =>          3,693       
+        )
+
+    [89] => Array
+        (
+            [country] =>          Latvia       
+            [caseCount] =>          137,210       
+            [deathCount] =>          2,503       
+        )
+
+    [90] => Array
+        (
+            [country] =>          Albania       
+            [caseCount] =>          132,512       
+            [deathCount] =>          2,456       
+        )
+
+    [91] => Array
+        (
+            [country] =>          Estonia       
+            [caseCount] =>          130,968       
+            [deathCount] =>          1,269       
+        )
+
+    [92] => Array
+        (
+            [country] =>          Norway       
+            [caseCount] =>          130,588       
+            [deathCount] =>          792       
+        )
+
+    [93] => Array
+        (
+            [country] =>          Kyrgyzstan       
+            [caseCount] =>          120,865       
+            [deathCount] =>          1,977       
+        )
+
+    [94] => Array
+        (
+            [country] =>          Afghanistan       
+            [caseCount] =>          111,592       
+            [deathCount] =>          4,519       
+        )
+
+    [95] => Array
+        (
+            [country] =>          Mongolia       
+            [caseCount] =>          111,505       
+            [deathCount] =>          533       
+        )
+
+    [96] => Array
+        (
+            [country] =>          Uzbekistan       
+            [caseCount] =>          109,223       
+            [deathCount] =>          729       
+        )
+
+    [97] => Array
+        (
+            [country] =>          Kosovo       
+            [caseCount] =>          107,299       
+            [deathCount] =>          2,260       
+        )
+
+    [98] => Array
+        (
+            [country] =>          China       
+            [caseCount] =>          103,724       
+            [deathCount] =>          4,846       
+        )
+
+    [99] => Array
+        (
+            [country] =>          Montenegro       
+            [caseCount] =>          100,190       
+            [deathCount] =>          1,609       
+        )
+
+    [100] => Array
+        (
+            [country] =>          Ghana       
+            [caseCount] =>          95,369       
+            [deathCount] =>          795       
+        )
+
+    [101] => Array
+        (
+            [country] =>          Finland       
+            [caseCount] =>          95,084       
+            [deathCount] =>          969       
+        )
+
+    [102] => Array
+        (
+            [country] =>          Namibia       
+            [caseCount] =>          84,705       
+            [deathCount] =>          1,400       
+        )
+
+    [103] => Array
+        (
+            [country] =>          Cameroon       
+            [caseCount] =>          80,487       
+            [deathCount] =>          1,320       
+        )
+
+    [104] => Array
+        (
+            [country] =>          El Salvador       
+            [caseCount] =>          78,572       
+            [deathCount] =>          2,367       
+        )
+
+    [105] => Array
+        (
+            [country] =>          Uganda       
+            [caseCount] =>          78,394       
+            [deathCount] =>          903       
+        )
+
+    [106] => Array
+        (
+            [country] =>          Mozambique       
+            [caseCount] =>          75,138       
+            [deathCount] =>          868       
+        )
+
+    [107] => Array
+        (
+            [country] =>          Cyprus       
+            [caseCount] =>          74,785       
+            [deathCount] =>          374       
+        )
+
+    [108] => Array
+        (
+            [country] =>          Maldives       
+            [caseCount] =>          73,327       
+            [deathCount] =>          209       
+        )
+
+    [109] => Array
+        (
+            [country] =>          Luxembourg       
+            [caseCount] =>          70,600       
+            [deathCount] =>          818       
+        )
+
+    [110] => Array
+        (
+            [country] =>          Botswana       
+            [caseCount] =>          67,492       
+            [deathCount] =>          1,095       
+        )
+
+    [111] => Array
+        (
+            [country] =>          Singapore       
+            [caseCount] =>          62,544       
+            [deathCount] =>          36       
+        )
+
+    [112] => Array
+        (
+            [country] =>          Jamaica       
+            [caseCount] =>          50,005       
+            [deathCount] =>          1,061       
+        )
+
+    [113] => Array
+        (
+            [country] =>          Côte d’Ivoire       
+            [caseCount] =>          48,192       
+            [deathCount] =>          312       
+        )
+
+    [114] => Array
+        (
+            [country] =>          Cambodia       
+            [caseCount] =>          47,649       
+            [deathCount] =>          540       
+        )
+
+    [115] => Array
+        (
+            [country] =>          Senegal       
+            [caseCount] =>          42,904       
+            [deathCount] =>          1,164       
+        )
+
+    [116] => Array
+        (
+            [country] =>          Madagascar       
+            [caseCount] =>          42,194       
+            [deathCount] =>          906       
+        )
+
+    [117] => Array
+        (
+            [country] =>          Democratic Republic of the Congo       
+            [caseCount] =>          40,254       
+            [deathCount] =>          916       
+        )
+
+    [118] => Array
+        (
+            [country] =>          Angola       
+            [caseCount] =>          38,556       
+            [deathCount] =>          889       
+        )
+
+    [119] => Array
+        (
+            [country] =>          Rwanda       
+            [caseCount] =>          36,627       
+            [deathCount] =>          420       
+        )
+
+    [120] => Array
+        (
+            [country] =>          Sudan       
+            [caseCount] =>          36,574       
+            [deathCount] =>          2,754       
+        )
+
+    [121] => Array
+        (
+            [country] =>          Malawi       
+            [caseCount] =>          35,629       
+            [deathCount] =>          1,182       
+        )
+
+    [122] => Array
+        (
+            [country] =>          Cape Verde       
+            [caseCount] =>          32,372       
+            [deathCount] =>          286       
+        )
+
+    [123] => Array
+        (
+            [country] =>          Trinidad and Tobago       
+            [caseCount] =>          32,198       
+            [deathCount] =>          817       
+        )
+
+    [124] => Array
+        (
+            [country] =>          Malta       
+            [caseCount] =>          30,606       
+            [deathCount] =>          420       
+        )
+
+    [125] => Array
+        (
+            [country] =>          Australia       
+            [caseCount] =>          30,528       
+            [deathCount] =>          910       
+        )
+
+    [126] => Array
+        (
+            [country] =>          Reunion       
+            [caseCount] =>          29,502       
+            [deathCount] =>          226       
+        )
+
+    [127] => Array
+        (
+            [country] =>          French Guiana       
+            [caseCount] =>          27,040       
+            [deathCount] =>          142       
+        )
+
+    [128] => Array
+        (
+            [country] =>          Syria       
+            [caseCount] =>          25,404       
+            [deathCount] =>          1,867       
+        )
+
+    [129] => Array
+        (
+            [country] =>          Gabon       
+            [caseCount] =>          24,984       
+            [deathCount] =>          159       
+        )
+
+    [130] => Array
+        (
+            [country] =>          Guinea       
+            [caseCount] =>          23,692       
+            [deathCount] =>          168       
+        )
+
+    [131] => Array
+        (
+            [country] =>          Suriname       
+            [caseCount] =>          21,249       
+            [deathCount] =>          507       
+        )
+
+    [132] => Array
+        (
+            [country] =>          Mauritania       
+            [caseCount] =>          20,635       
+            [deathCount] =>          486       
+        )
+
+    [133] => Array
+        (
+            [country] =>          Guyana       
+            [caseCount] =>          19,877       
+            [deathCount] =>          462       
+        )
+
+    [134] => Array
+        (
+            [country] =>          Mayotte       
+            [caseCount] =>          19,405       
+            [deathCount] =>          174       
+        )
+
+    [135] => Array
+        (
+            [country] =>          Eswatini       
+            [caseCount] =>          19,035       
+            [deathCount] =>          678       
+        )
+
+    [136] => Array
+        (
+            [country] =>          French Polynesia       
+            [caseCount] =>          18,994       
+            [deathCount] =>          142       
+        )
+
+    [137] => Array
+        (
+            [country] =>          Haiti       
+            [caseCount] =>          17,963       
+            [deathCount] =>          400       
+        )
+
+    [138] => Array
+        (
+            [country] =>          Guadeloupe       
+            [caseCount] =>          17,427       
+            [deathCount] =>          266       
+        )
+
+    [139] => Array
+        (
+            [country] =>          Papua New Guinea       
+            [caseCount] =>          17,098       
+            [deathCount] =>          173       
+        )
+
+    [140] => Array
+        (
+            [country] =>          Vietnam       
+            [caseCount] =>          15,740       
+            [deathCount] =>          76       
+        )
+
+    [141] => Array
+        (
+            [country] =>          Seychelles       
+            [caseCount] =>          15,116       
+            [deathCount] =>          63       
+        )
+
+    [142] => Array
+        (
+            [country] =>          Somalia       
+            [caseCount] =>          14,892       
+            [deathCount] =>          775       
+        )
+
+    [143] => Array
+        (
+            [country] =>          Taiwan       
+            [caseCount] =>          14,634       
+            [deathCount] =>          632       
+        )
+
+    [144] => Array
+        (
+            [country] =>          Mali       
+            [caseCount] =>          14,417       
+            [deathCount] =>          525       
+        )
+
+    [145] => Array
+        (
+            [country] =>          Andorra       
+            [caseCount] =>          13,882       
+            [deathCount] =>          127       
+        )
+
+    [146] => Array
+        (
+            [country] =>          Togo       
+            [caseCount] =>          13,816       
+            [deathCount] =>          128       
+        )
+
+    [147] => Array
+        (
+            [country] =>          Burkina Faso       
+            [caseCount] =>          13,478       
+            [deathCount] =>          168       
+        )
+
+    [148] => Array
+        (
+            [country] =>          Tajikistan       
+            [caseCount] =>          13,439       
+            [deathCount] =>          90       
+        )
+
+    [149] => Array
+        (
+            [country] =>          Belize       
+            [caseCount] =>          13,137       
+            [deathCount] =>          329       
+        )
+
+    [150] => Array
+        (
+            [country] =>          Republic of the Congo       
+            [caseCount] =>          12,485       
+            [deathCount] =>          165       
+        )
+
+    [151] => Array
+        (
+            [country] =>          Bahamas       
+            [caseCount] =>          12,467       
+            [deathCount] =>          245       
+        )
+
+    [152] => Array
+        (
+            [country] =>          Curaçao       
+            [caseCount] =>          12,330       
+            [deathCount] =>          126       
+        )
+
+    [153] => Array
+        (
+            [country] =>          Martinique       
+            [caseCount] =>          12,199       
+            [deathCount] =>          99       
+        )
+
+    [154] => Array
+        (
+            [country] =>          Hong Kong       
+            [caseCount] =>          11,917       
+            [deathCount] =>          210       
+        )
+
+    [155] => Array
+        (
+            [country] =>          Djibouti       
+            [caseCount] =>          11,601       
+            [deathCount] =>          155       
+        )
+
+    [156] => Array
+        (
+            [country] =>          Lesotho       
+            [caseCount] =>          11,239       
+            [deathCount] =>          329       
+        )
+
+    [157] => Array
+        (
+            [country] =>          Aruba       
+            [caseCount] =>          11,131       
+            [deathCount] =>          107       
+        )
+
+    [158] => Array
+        (
+            [country] =>          South Sudan       
+            [caseCount] =>          10,812       
+            [deathCount] =>          115       
+        )
+
+    [159] => Array
+        (
+            [country] =>          East Timor       
+            [caseCount] =>          9,035       
+            [deathCount] =>          21       
+        )
+
+    [160] => Array
+        (
+            [country] =>          Equatorial Guinea       
+            [caseCount] =>          8,723       
+            [deathCount] =>          121       
+        )
+
+    [161] => Array
+        (
+            [country] =>          Benin       
+            [caseCount] =>          8,170       
+            [deathCount] =>          104       
+        )
+
+    [162] => Array
+        (
+            [country] =>          Nicaragua       
+            [caseCount] =>          7,920       
+            [deathCount] =>          189       
+        )
+
+    [163] => Array
+        (
+            [country] =>          Central African Republic       
+            [caseCount] =>          7,139       
+            [deathCount] =>          98       
+        )
+
+    [164] => Array
+        (
+            [country] =>          Yemen       
+            [caseCount] =>          6,908       
+            [deathCount] =>          1,360       
+        )
+
+    [165] => Array
+        (
+            [country] =>          Iceland       
+            [caseCount] =>          6,555       
+            [deathCount] =>          29       
+        )
+
+    [166] => Array
+        (
+            [country] =>          Gambia       
+            [caseCount] =>          6,069       
+            [deathCount] =>          181       
+        )
+
+    [167] => Array
+        (
+            [country] =>          Eritrea       
+            [caseCount] =>          5,780       
+            [deathCount] =>          21       
+        )
+
+    [168] => Array
+        (
+            [country] =>          Niger       
+            [caseCount] =>          5,479       
+            [deathCount] =>          193       
+        )
+
+    [169] => Array
+        (
+            [country] =>          Sierra Leone       
+            [caseCount] =>          5,381       
+            [deathCount] =>          94       
+        )
+
+    [170] => Array
+        (
+            [country] =>          Burundi       
+            [caseCount] =>          5,348       
+            [deathCount] =>          8       
+        )
+
+    [171] => Array
+        (
+            [country] =>          Saint Lucia       
+            [caseCount] =>          5,278       
+            [deathCount] =>          84       
+        )
+
+    [172] => Array
+        (
+            [country] =>          San Marino       
+            [caseCount] =>          5,090       
+            [deathCount] =>          90       
+        )
+
+    [173] => Array
+        (
+            [country] =>          Chad       
+            [caseCount] =>          4,951       
+            [deathCount] =>          174       
+        )
+
+    [174] => Array
+        (
+            [country] =>          Gibraltar       
+            [caseCount] =>          4,345       
+            [deathCount] =>          94       
+        )
+
+    [175] => Array
+        (
+            [country] =>          Channel Islands       
+            [caseCount] =>          4,220       
+            [deathCount] =>          86       
+        )
+
+    [176] => Array
+        (
+            [country] =>          Barbados       
+            [caseCount] =>          4,075       
+            [deathCount] =>          47       
+        )
+
+    [177] => Array
+        (
+            [country] =>          Comoros       
+            [caseCount] =>          3,912       
+            [deathCount] =>          146       
+        )
+
+    [178] => Array
+        (
+            [country] =>          Guinea-Bissau       
+            [caseCount] =>          3,846       
+            [deathCount] =>          69       
+        )
+
+    [179] => Array
+        (
+            [country] =>          Liberia       
+            [caseCount] =>          3,736       
+            [deathCount] =>          120       
+        )
+
+    [180] => Array
+        (
+            [country] =>          Fiji       
+            [caseCount] =>          3,591       
+            [deathCount] =>          15       
+        )
+
+    [181] => Array
+        (
+            [country] =>          Liechtenstein       
+            [caseCount] =>          3,032       
+            [deathCount] =>          59       
+        )
+
+    [182] => Array
+        (
+            [country] =>          New Zealand       
+            [caseCount] =>          2,738       
+            [deathCount] =>          26       
+        )
+
+    [183] => Array
+        (
+            [country] =>          Sint Maarten       
+            [caseCount] =>          2,601       
+            [deathCount] =>          33       
+        )
+
+    [184] => Array
+        (
+            [country] =>          Monaco       
+            [caseCount] =>          2,571       
+            [deathCount] =>          33       
+        )
+
+    [185] => Array
+        (
+            [country] =>          Bermuda       
+            [caseCount] =>          2,510       
+            [deathCount] =>          33       
+        )
+
+    [186] => Array
+        (
+            [country] =>          São Tomé and Principe       
+            [caseCount] =>          2,365       
+            [deathCount] =>          37       
+        )
+
+    [187] => Array
+        (
+            [country] =>          Saint Martin       
+            [caseCount] =>          2,276       
+            [deathCount] =>          12       
+        )
+
+    [188] => Array
+        (
+            [country] =>          Saint Vincent and the Grenadines       
+            [caseCount] =>          2,219       
+            [deathCount] =>          12       
+        )
+
+    [189] => Array
+        (
+            [country] =>          Laos       
+            [caseCount] =>          2,110       
+            [deathCount] =>          3       
+        )
+
+    [190] => Array
+        (
+            [country] =>          Bhutan       
+            [caseCount] =>          2,052       
+            [deathCount] =>          1       
+        )
+
+    [191] => Array
+        (
+            [country] =>          Mauritius       
+            [caseCount] =>          1,833       
+            [deathCount] =>          18       
+        )
+
+    [192] => Array
+        (
+            [country] =>          Isle of Man       
+            [caseCount] =>          1,608       
+            [deathCount] =>          29       
+        )
+
+    [193] => Array
+        (
+            [country] =>          Antigua and Barbuda       
+            [caseCount] =>          1,263       
+            [deathCount] =>          42       
+        )
+
+    [194] => Array
+        (
+            [country] =>          Saint Barthelemy       
+            [caseCount] =>          1,005       
+            [deathCount] =>          1       
+        )
+
+    [195] => Array
+        (
+            [country] =>          Faroe Islands       
+            [caseCount] =>          772       
+            [deathCount] =>          1       
+        )
+
+    [196] => Array
+        (
+            [country] =>          Cayman Islands       
+            [caseCount] =>          609       
+            [deathCount] =>          2       
+        )
+
+    [197] => Array
+        (
+            [country] =>          Tanzania       
+            [caseCount] =>          509       
+            [deathCount] =>          21       
+        )
+
+    [198] => Array
+        (
+            [country] =>          Saint Kitts and Nevis       
+            [caseCount] =>          429       
+            [deathCount] =>          3       
+        )
+
+    [199] => Array
+        (
+            [country] =>          British Virgin Islands       
+            [caseCount] =>          298       
+            [deathCount] =>          1       
+        )
+
+    [200] => Array
+        (
+            [country] =>          Brunei       
+            [caseCount] =>          259       
+            [deathCount] =>          3       
+        )
+
+    [201] => Array
+        (
+            [country] =>          Dominica       
+            [caseCount] =>          193       
+            [deathCount] =>          0       
+        )
+
+    [202] => Array
+        (
+            [country] =>          Grenada       
+            [caseCount] =>          161       
+            [deathCount] =>          1       
+        )
+
+    [203] => Array
+        (
+            [country] =>          New Caledonia       
+            [caseCount] =>          129       
+            [deathCount] =>          0       
+        )
+
+    [204] => Array
+        (
+            [country] =>          Anguilla       
+            [caseCount] =>          109       
+            [deathCount] =>          0       
+        )
+
+    [205] => Array
+        (
+            [country] =>          Falkland Islands       
+            [caseCount] =>          63       
+            [deathCount] =>          0       
+        )
+
+    [206] => Array
+        (
+            [country] =>          Macao       
+            [caseCount] =>          53       
+            [deathCount] =>          0       
+        )
+
+    [207] => Array
+        (
+            [country] =>          Greenland       
+            [caseCount] =>          50       
+            [deathCount] =>          0       
+        )
+
+    [208] => Array
+        (
+            [country] =>          Vatican City       
+            [caseCount] =>          27       
+            [deathCount] =>          0       
+        )
+
+    [209] => Array
+        (
+            [country] =>          Saint Pierre and Miquelon       
+            [caseCount] =>          26       
+            [deathCount] =>          0       
+        )
+
+    [210] => Array
+        (
+            [country] =>          Solomon Islands       
+            [caseCount] =>          20       
+            [deathCount] =>          0       
+        )
+
+    [211] => Array
+        (
+            [country] =>          Marshall Islands       
+            [caseCount] =>          4       
+            [deathCount] =>          0       
+        )
+
+    [212] => Array
+        (
+            [country] =>          Vanuatu       
+            [caseCount] =>          4       
+            [deathCount] =>          1       
+        )
+
+    [213] => Array
+        (
+            [country] =>          Samoa       
+            [caseCount] =>          3       
+            [deathCount] =>          0       
+        )
+
+    [214] => Array
+        (
+            [country] =>          Micronesia       
+            [caseCount] =>          1       
+            [deathCount] =>          0       
+        )
+
+)
