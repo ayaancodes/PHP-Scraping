@@ -18,21 +18,6 @@ curl_close($curl);
 // Create a DOM object
 $html_base = new simple_html_dom();
 
-// Load HTML from a string
-$html_base->load($str);
-
-//get all category links
-foreach($html_base->find('div') as $element) {
-    echo "<pre>";
-    echo $element;
-    // print_r( $element->outertext);
-    echo "</pre>";
-}
-
-$html_base->clear(); 
-unset($html_base);
-
-
 
 // Load HTML from a string
 $html_base->load($str);
