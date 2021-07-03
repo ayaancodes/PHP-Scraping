@@ -34,10 +34,6 @@ session_start();
 		// header('location: index.php');
 	}
 
-		mysqli_query($db1, "DELETE FROM tasks WHERE id=".$id);
-		// header('location: index.php');  <= I think we don't need to redirect to index.php
-	}
-
 ?>
 
 <!DOCTYPE html>
@@ -68,7 +64,6 @@ session_start();
 		<?php 
 		// select all tasks if page is visited or refreshed
 		$tasks = mysqli_query($db1, "SELECT * FROM tasks WHERE users_id=$currentId") or die( mysqli_error($db1));
-		$tasks = mysqli_query($db1, "SELECT * FROM tasks") or die( mysqli_error($db1));
 
 		$i = 1; while ($row = mysqli_fetch_array($tasks)) { ?>
 			<tr>
@@ -76,10 +71,7 @@ session_start();
 				<td class="taskid"> <?php echo $row['id']; ?> </td>
 				<td class="task"><?php echo $row['task']; ?> </td>
 				<td class="delete"> 
-					<a href="todo.php?del_task=<?php echo $row['id']?>">x</a> 
-				<td class="task"> <?php echo $row['task']; ?> </td>
-				<td class="delete"> 
-					<a href="todo.php?del_task=<?php echo $row['id'] ?>">x</a>  
+			    <a href="todo.php?del_task=<?php echo $row['id']?>">x</a> 
 				</td>
 			</tr>
 		<?php $i++; } ?>	
